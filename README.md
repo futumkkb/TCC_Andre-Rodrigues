@@ -4,14 +4,14 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* André Rodrigues de Freitas Faria
 
 ## Professores responsáveis
 
-* Nome do orientador de conteúdo (TCCI)
-* Nome do orientador de acadêmico (TCCI)
-* Nome do orientador de TCC II
+* Cleiton Silva Tavares
+* Danilo Boechat Seufitelli
+* Joana Gabriela Ribeiro de Souza
+* Leonardo Vilela Cardoso
 
 ## Instruções de Replicação/Reprodução
 
