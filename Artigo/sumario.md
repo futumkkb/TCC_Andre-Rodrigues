@@ -1,7 +1,6 @@
-# Título do trabalho
+# Impactos performáticos dos monolitos distribuídos
 
-1. Nome do aluno 1
-1. Nome do aluno 2 (se houver)
+1. André Rodrigues de Freitas Faria
 
 * Nome do orientador de conteúdo
 * Nome do orientador acadêmico
